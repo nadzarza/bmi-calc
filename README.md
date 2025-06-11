@@ -10,4 +10,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+URL of my website: https://progress-bmi.vercel.app/
+
 
